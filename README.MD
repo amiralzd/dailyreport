@@ -1,8 +1,13 @@
 # Daily Report
 
-### 1402/4/17
-###### learning github & trello
+### OverView
+Continuation of the practice project.
 
+### TaskDatelis
+Doing the main part of the site.
 
-### 1402/4/18
-###### today, i started mini project
+### Chalenges 
+tailwind shadow & photo frame
+
+### NextSteps
+finishing the project and doing new projects.

@@ -7,7 +7,7 @@ Continuation of the practice project.
 Doing the main part of the site.
 
 ### Chalenges 
-tailwind shadow & photo frame
+
 
 ### NextSteps
 finishing the project and doing new projects.

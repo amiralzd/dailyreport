@@ -1,13 +1,13 @@
 # Daily Report
 
 ### OverView
-Continuation of the practice project.
+start mini project dashboard
 
 ### TaskDatelis
-Doing the main part of the site.
+sidebar
 
 ### Chalenges 
-
+sidebar js responsive
 
 ### NextSteps
-finishing the project and doing new projects.
+finish this porject

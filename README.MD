@@ -1,13 +1,13 @@
 # Daily Report
 
 ### OverView
-start mini project dashboard
+doing project dashboard
 
 ### TaskDatelis
 sidebar
 
 ### Chalenges 
-sidebar js responsive
+
 
 ### NextSteps
 finish this porject

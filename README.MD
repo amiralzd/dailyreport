@@ -4,7 +4,7 @@
 doing project dashboard
 
 ### TaskDatelis
-sidebar
+style
 
 ### Chalenges 
 

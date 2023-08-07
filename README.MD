@@ -1,13 +1,13 @@
 # Daily Report
 
 ### OverView
-doing project dashboard
+3d css project
 
 ### TaskDatelis
-style
+
 
 ### Chalenges 
 
 
 ### NextSteps
-finish this porject
+learn js

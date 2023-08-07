@@ -1,7 +1,7 @@
 # Daily Report
 
 ### OverView
-3d css project
+whatch javascript course
 
 ### TaskDatelis
 

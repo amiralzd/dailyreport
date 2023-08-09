@@ -1,13 +1,17 @@
 # Daily Report
 
 ### OverView
-whatch javascript course & doing mini 3d halloween project
+whatch javascript course & doing mini 3d dubai travel project
+&& nature project and login project
 
 ### TaskDatelis
 
 
 ### Chalenges 
-background audio
+3d dubai project {
+    screen width
+}
 
 ### NextSteps
+finish login project
 learn js

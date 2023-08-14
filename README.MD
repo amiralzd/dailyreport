@@ -1,17 +1,18 @@
 # Daily Report
 
 ### OverView
-doing login project
+1. js course
+2. 3d css js project
 
 ### TaskDatelis
 ! no taskdatelis
 
 ### Chalenges 
-! no chalenge
+1. animation 3d
 
 ### NextSteps
 
-1.learn js
+learn js
 
 ### Conclusion
 ! no Conclusion

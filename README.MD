@@ -1,8 +1,7 @@
 # Daily Report
 
 ### OverView
-1. js course
-2. plugin wordpress
+1. plugin wordpress
 
 ### TaskDatelis
 ! no taskdatelis

@@ -2,17 +2,18 @@
 
 ### OverView
 1. js course
-2. 3d css js project
+2. plugin wordpress
 
 ### TaskDatelis
 ! no taskdatelis
 
 ### Chalenges 
-1. animation 3d
+1. function undefind
 
 ### NextSteps
 
 learn js
+debug plugin wordpress
 
 ### Conclusion
 ! no Conclusion

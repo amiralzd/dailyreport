@@ -2,19 +2,21 @@
 
 ### OverView
 
-1. three js course
+1. tailwind tutorial (review)
+2. java script course (review)
 
 ### TaskDatelis
 
-doing three js project with course
+1. tailwind --> Responsive
+2. java script --> The subject of objectivity
 
 ### Chalenges 
 
-1. create three js folder
+1. nothing
 
 ### NextSteps
 
-1. learn more three js
+1. tailwind (review)
 
 ### Conclusion
 ! no Conclusion

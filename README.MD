@@ -14,7 +14,7 @@ doing three js project with course
 
 ### NextSteps
 
-1. learn more three js
+1. tailwind (review)
 
 ### Conclusion
 ! no Conclusion

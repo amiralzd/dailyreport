@@ -1,19 +1,20 @@
 # Daily Report
 
 ### OverView
-1. plugin wordpress
-2. 3d cup tea
+
+1. three js course
 
 ### TaskDatelis
-! no taskdatelis
+
+doing three js project with course
 
 ### Chalenges 
-1. function undefind
+
+1. create three js folder
 
 ### NextSteps
 
-learn js
-debug plugin wordpress
+1. learn more three js
 
 ### Conclusion
 ! no Conclusion

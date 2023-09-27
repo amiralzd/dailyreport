@@ -2,13 +2,11 @@
 
 ### OverView
 
-1. tailwind tutorial (review)
-2. java script course (review)
+1. start practice project
 
 ### TaskDatelis
 
-1. tailwind --> Responsive
-2. java script --> The subject of objectivity
+1. tailwind
 
 ### Chalenges 
 

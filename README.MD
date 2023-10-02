@@ -2,18 +2,20 @@
 
 ### OverView
 
-| finish website practice
+| start Hisun project
 
 ### TaskDatelis
 
-| responsive website 
+| Header
+| Navbar
+| Big banner
 
 ### Chalenges 
 
-| i'll fixed dropdown but when i refresh the website, all my code returns to the previous state, but if i save my code on vscode without refresh website my code are working!!
+| image slider with javascript
 ### NextSteps
 
-| finish responsive
+| I will do the rest of the project
 
 ### Conclusion
-| i fixed my problem (dropdown) and finish my website(desktop & responsive)
+| I have not yet reached the conclusion

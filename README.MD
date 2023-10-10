@@ -2,7 +2,7 @@
 
 ### OverView
 
-| I designed 67% of hisun website
+| i finish website (Hisun) project (desktop)
 
 ### TaskDatelis
 

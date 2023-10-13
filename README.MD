@@ -2,19 +2,15 @@
 
 ### OverView
 
-| i finish website (Hisun) project (desktop)
+| I finished the boxes related to the slide
 
 ### TaskDatelis
-
-| New-arrival
-| Andre-Francoise
-| Key-points
-| About-Hisun
-| Erik-Mclean
+| slide
 
 ### Chalenges 
 
-| image slider with javascript
+| button scale
+| slide loop
 
 ### NextSteps
 

@@ -2,19 +2,19 @@
 
 ### OverView
 
-| I finished the boxes related to the slide
+| I finished the boxes related to the slide and i'll fixed fonts
 
 ### TaskDatelis
 | slide
+| fonts
 
 ### Chalenges 
 
-| button scale
-| slide loop
+| slide
 
 ### NextSteps
 
-| I will do the rest of the project
+| responsive
 
 ### Conclusion
-| I have not yet reached the conclusion
+| From the beginning of the project until now, I was involved in the fonts that could not be fixed, but tonight I fixed it and it works

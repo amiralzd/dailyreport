@@ -2,11 +2,11 @@
 
 ### OverView
 
-| I finished the boxes related to the slide and i'll fixed fonts
+| I finished landing but i have some chalenge
 
 ### TaskDatelis
 | slide
-| fonts
+| responsive
 
 ### Chalenges 
 
@@ -17,4 +17,4 @@
 | responsive
 
 ### Conclusion
-| From the beginning of the project until now, I was involved in the fonts that could not be fixed, but tonight I fixed it and it works
+| nothing 

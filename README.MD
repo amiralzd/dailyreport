@@ -2,7 +2,7 @@
 
 ### OverView
 
-| I finished landing but i have some chalenge
+| I finished landing but i have some chalenge in landing and responsive
 
 ### TaskDatelis
 | slide

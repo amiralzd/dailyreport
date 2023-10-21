@@ -2,7 +2,7 @@
 
 ### OverView
 
-| I finished landing but i have some chalenge in landing and responsive
+| I finished big banner and new arrival and i finished 40% of andre
 
 ### TaskDatelis
 | slide

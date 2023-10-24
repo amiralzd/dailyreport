@@ -2,7 +2,7 @@
 
 ### OverView
 
-| I finished 60% of landing and responsive
+| I finished 80% of landing and responsive
 
 ### TaskDatelis
 | slide

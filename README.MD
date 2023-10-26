@@ -2,19 +2,20 @@
 
 ### OverView
 
-| I finished 80% of landing and responsive
+| I finished landing
 
 ### TaskDatelis
-| slide
-| responsive
+| main (the last two episodes)
+| footer
+| responsive (main & footer)
 
 ### Chalenges 
 
-| slide
+| none
 
 ### NextSteps
 
-| responsive
+| i really dont't know
 
 ### Conclusion
-| nothing 
+| nothing

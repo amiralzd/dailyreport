@@ -2,20 +2,25 @@
 
 ### OverView
 
-| I finished landing
+| planning
+| html semantic document
 
 ### TaskDatelis
-| main (the last two episodes)
-| footer
-| responsive (main & footer)
+| article
+| aside
+| section
+| summary
+| figur
+| figcaption
+| mark
+| time
 
 ### Chalenges 
-
 | none
 
 ### NextSteps
 
-| i really dont't know
+| on schedule
 
 ### Conclusion
-| nothing
+| From today, I plan to review html and media queries again, and start learning jquery from next week.

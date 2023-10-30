@@ -1,29 +1,22 @@
 # Daily Report
 
 ## Date
- <b>1402/08/06</b>
+ <b>1402/08/08</b>
 
 ### OverView
-
-| planning
-| html semantic document
+| media queries
 
 ### TaskDatelis
-| article
-| aside
-| section
-| summary
-| figur
-| figcaption
-| mark
-| time
+| media all
+| media screen
+| media print
+| media speech
 
 ### Chalenges 
 | none
 
 ### NextSteps
-
-| on schedule (semantic)
+| on schedule (media queries)
 
 ### Conclusion
-| From today, I plan to review html and media queries again, and start learning jquery from next week.
+| Today, I started browsing the media query and created a folder and created the semantic structure and sized that structure with the media query.

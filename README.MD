@@ -1,7 +1,7 @@
 # Daily Report
 
 ## Date
- <b>1402/08/08</b>
+ <b>1402/08/09</b>
 
 ### OverView
 | media queries
@@ -11,6 +11,8 @@
 | media screen
 | media print
 | media speech
+| media not/only
+| media (max... or min...)
 
 ### Chalenges 
 | none
@@ -19,4 +21,4 @@
 | on schedule (media queries)
 
 ### Conclusion
-| Today, I started browsing the media query and created a folder and created the semantic structure and sized that structure with the media query.
+| Today, I re-reviewed the previous training videos and watched the new videos, and all the times were 6-7 minutes, and all the topics were not more than 6 theta that I mentioned above.

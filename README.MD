@@ -1,24 +1,22 @@
 # Daily Report
 
 ## Date
- <b>1402/08/09</b>
+ <b>1402/08/013</b>
 
 ### OverView
-| media queries
+| jQuery
 
 ### TaskDatelis
-| media all
-| media screen
-| media print
-| media speech
-| media not/only
-| media (max... or min...)
+| hide & show & ready
+| selector
+| event
+| slideUp & fadeTo
 
 ### Chalenges 
 | none
 
 ### NextSteps
-| on schedule (media queries)
+| on schedule (jQuery)
 
 ### Conclusion
-| Today, I re-reviewed the previous training videos and watched the new videos, and all the times were 6-7 minutes, and all the topics were not more than 6 theta that I mentioned above.
+| Today I started jQuery and watched 4 parts of the videos and planned to finish it within a week and spend my time practicing with jQuery the following week.

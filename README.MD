@@ -1,16 +1,16 @@
 # Daily Report
 
 ## Date
- <b>1402/08/013</b>
+ <b>1402/08/15</b>
 
 ### OverView
 | jQuery
 
 ### TaskDatelis
-| hide & show & ready
-| selector
-| event
-| slideUp & fadeTo
+| animate
+| getset
+| beffor-affter-append-repend-remove-empty
+| classList
 
 ### Chalenges 
 | none
@@ -19,4 +19,4 @@
 | on schedule (jQuery)
 
 ### Conclusion
-| Today I started jQuery and watched 4 parts of the videos and planned to finish it within a week and spend my time practicing with jQuery the following week.
+| Today I watched parts (5-8)

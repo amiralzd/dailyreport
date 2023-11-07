@@ -1,16 +1,15 @@
 # Daily Report
 
 ## Date
- <b>1402/08/15</b>
+ <b>1402/08/16</b>
 
 ### OverView
 | jQuery
 
 ### TaskDatelis
-| animate
-| getset
-| beffor-affter-append-repend-remove-empty
-| classList
+| Dimations
+| Traversing
+| Decendants
 
 ### Chalenges 
 | none
@@ -19,4 +18,4 @@
 | on schedule (jQuery)
 
 ### Conclusion
-| Today I watched parts (5-8)
+| Today I saw 5 parts of jQuery

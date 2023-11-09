@@ -1,16 +1,16 @@
 # Daily Report
 
 ## Date
- <b>1402/08/16</b>
+ <b>1402/08/18</b>
 
 ### OverView
 | jQuery
 
 ### TaskDatelis
-| Dimations
-| Traversing
-| Decendants
-
+| traversing
+| accordion
+| scroll to top
+| modal
 ### Chalenges 
 | none
 
@@ -18,4 +18,4 @@
 | on schedule (jQuery)
 
 ### Conclusion
-| Today I saw 5 parts of jQuery
+| Today I saw 4 parts of jQuery

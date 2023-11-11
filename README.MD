@@ -1,21 +1,24 @@
-# Daily Report
+# Daily Report 🙂
 
-## Date
- <b>1402/08/18</b>
+## Date 📅
+ 1402/08/20
 
 ### OverView
 | jQuery
 
 ### TaskDatelis
-| traversing
-| accordion
-| scroll to top
-| modal
+| project 4
+| plugin (sweetalert)
+| plugin (owlslider)
+| plugin (silck)
+| plugin (aos)
+| plugin (zoomy slider)
 ### Chalenges 
-| none
+| aos
+| That's not working for me 
 
 ### NextSteps
 | on schedule (jQuery)
 
 ### Conclusion
-| Today I saw 4 parts of jQuery
+| Today I saw 5 parts of jQuery

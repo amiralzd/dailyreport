@@ -1,24 +1,20 @@
 # Daily Report 🙂
 
 ## Date 📅
- 1402/08/20
+ 1402/08/22
 
 ### OverView
 | jQuery
 
 ### TaskDatelis
 | project 4
-| plugin (sweetalert)
-| plugin (owlslider)
-| plugin (silck)
-| plugin (aos)
-| plugin (zoomy slider)
+| plugins
+| digikala jquery
 ### Chalenges 
-| aos
-| That's not working for me 
+| none
 
 ### NextSteps
 | on schedule (jQuery)
 
 ### Conclusion
-| Today I saw 5 parts of jQuery
+| Today I saw 5 parts of jQuery and i started project (digikala) for jQuery

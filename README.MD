@@ -1,15 +1,19 @@
 # Daily Report 🙂
 
 ## Date 📅
- 1402/08/29
+ 1402/08/30
 
 ### OverView
 | jQuery
 
 ### TaskDatelis
 | digikala jquery
+
 ### Chalenges 
-| hover slide
+| search back
+| menu back hover
+| location popup z-index
+| menu items hover change
 
 ### NextSteps
 | on schedule (digikala jQuery)

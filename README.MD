@@ -1,21 +1,19 @@
 # Daily Report 🙂
 
 ## Date 📅
- 1402/08/04
+ 1402/08/06
 
 ### OverView
 | jQuery
 
 ### TaskDatelis
-| grouping-Specifications
-| header-responsive
-| nav-responsive
+| header-responsive 👀
 
 ### Chalenges 
-| header-responsive (search)
+| header-responsive (search)😐
 
 ### NextSteps
-| on schedule (digikala jQuery)
+| on schedule (digikala jQuery) \
 
 ### Conclusion
-| i finish that project but i have chalenge in header-responsive (search)
+| i finish that project but i have chalenge in header-responsive (search)!🤦‍♂️

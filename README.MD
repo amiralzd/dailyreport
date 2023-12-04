@@ -1,19 +1,19 @@
 # Daily Report 🙂
 
 ## Date 📅
- 1402/08/07
+ 1402/08/11
 
 ### OverView
 | jQuery
 
 ### TaskDatelis
-| header-responsive 👀
+| header-responsive
 
 ### Chalenges 
-| header-responsive (search)😐
+| search-hover(responsive) - history(overflow-x)
 
 ### NextSteps
-| on schedule (digikala jQuery) \
+| on schedule (digikala jQuery) 
 
 ### Conclusion
-| i finish that project but i have chalenge in header-responsive (search)!🤦‍♂️
+| i fixed the chalenge😁 but i have another chalenge😐

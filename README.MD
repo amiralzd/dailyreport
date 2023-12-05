@@ -1,19 +1,19 @@
 # Daily Report 🙂
 
 ## Date 📅
- 1402/08/13
+ 1402/08/14
 
 ### OverView
 | jQuery
 
 ### TaskDatelis
-| header-responsive - icon3D - card
+| corner animation
 
 ### Chalenges 
-| search-hover(responsive) - history(overflow-x)
+| none
 
 ### NextSteps
 | on schedule (digikala jQuery) 
 
 ### Conclusion
-| i have chalenge on search-hover(responsive) - history(overflow-x)🙂
+| none

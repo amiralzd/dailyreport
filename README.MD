@@ -1,16 +1,16 @@
 # Daily Report 🙂
 
 ## Date 📅
- 1402/08/14
+ 1402/08/18
 
 ### OverView
 | jQuery
 
 ### TaskDatelis
-| corner animation
+| main -> slide
 
 ### Chalenges 
-| none
+| items size
 
 ### NextSteps
 | on schedule (digikala jQuery) 

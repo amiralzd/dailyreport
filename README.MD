@@ -1,16 +1,16 @@
 # Daily Report 🙂
 
 ## Date 📅
- 1402/08/18
+ 1402/08/20
 
 ### OverView
 | jQuery
 
 ### TaskDatelis
-| main -> slide
+| nav -> scrollTop | point
 
 ### Chalenges 
-| items size
+| responsive nav
 
 ### NextSteps
 | on schedule (digikala jQuery) 

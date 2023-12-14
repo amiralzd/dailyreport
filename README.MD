@@ -1,13 +1,13 @@
 # Daily Report 🙂
 
 ## Date 📅
- 1402/08/21
+ 1402/08/23
 
 ### OverView
 | jQuery
 
 ### TaskDatelis
-| point | product slide
+| product slide
 
 ### Chalenges 
 | responsive nav

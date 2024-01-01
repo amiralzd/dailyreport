@@ -1,19 +1,19 @@
 # Daily Report 🙂
 
 ## Date 📅
- 1402/08/23
+ 1402/10/11
 
 ### OverView
-| jQuery
+| zhaket with jQuery
 
 ### TaskDatelis
-| product slide
+| main
 
 ### Chalenges 
-| responsive nav
+| none
 
 ### NextSteps
-| on schedule (digikala jQuery) 
+| finish this priject 
 
 ### Conclusion
-| none
+| i finish 80% of this project
